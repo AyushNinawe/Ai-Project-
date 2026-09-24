@@ -1,0 +1,8 @@
+{
+  "name": "AI Automation & Agent Hub",
+  "description": "Production-grade internal AI automation platform, visual workflow builder, AI agents, MCP tool registry, web scraper, and execution engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
